@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pritish Barabde</h1>
 <h3 align="center">A TECH ENTHUSIAST!!</h3>
 
+</p>
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif">
+
 - 🌱 I’m currently learning **Python**
 
 - ⚡ Fun fact **I think I am an 'ENGINEER' XD**
