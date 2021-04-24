@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I think I am an 'ENGINEER' XD**
 
+- 📫 How to reach me **barabdepritish@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pritishbarabde" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pritishbarabde" height="30" width="40" /></a>
