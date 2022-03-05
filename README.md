@@ -3,7 +3,7 @@
 <h3 align="center">A TECH ENTHUSIAST!!</h3>
 
 </p>
-<img align="right" alt="Coding" width="380" src="https://github.com/pritishbarabde/pritishbarabde/blob/main/Images/GitHub%20Profile%20.gif">
+<img align="right" alt="Coding" width="380" src="https://github.com/pritishbarabde/pritishbarabde/blob/main/Images/GitHub%20Profile.gif">
 
 - 🌱 I’m currently learning **Python**
 
